@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/cowboy/jquery-bbq/issues"
   },
-  "homepage": "https://github.com/cowboy/jquery-bbq"
+  "homepage": "https://github.com/cowboy/jquery-bbq",
+  "dependencies": {
+    "jquery": "^1.9.1"
+  }
 }
