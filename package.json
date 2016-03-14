@@ -1,0 +1,23 @@
+{
+  "name": "jquery-bbq",
+  "version": "0.0.3",
+  "description": "jQuery BBQ: Back Button & Query Library",
+  "main": "jquery.ba-bbq.js",
+  "directories": {
+    "doc": "docs",
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cowboy/jquery-bbq.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cowboy/jquery-bbq/issues"
+  },
+  "homepage": "https://github.com/cowboy/jquery-bbq"
+}
