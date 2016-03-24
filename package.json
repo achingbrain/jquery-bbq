@@ -1,6 +1,6 @@
 {
   "name": "jquery-bbq",
-  "version": "0.0.3",
+  "version": "1.0.0",
   "description": "jQuery BBQ: Back Button & Query Library",
   "main": "jquery.ba-bbq.js",
   "directories": {
