@@ -1,4 +1,5 @@
 var jQuery = require('jquery')
+jQuery.browser = jQuery.browser || {};
 
 /*!
  * jQuery BBQ: Back Button & Query Library - v1.3pre - 8/26/2010
